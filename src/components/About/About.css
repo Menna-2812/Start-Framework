@@ -1,0 +1,11 @@
+#about{
+    background-color: var(--main-color);
+    height: 95vh;
+}
+#about #line{
+    background-color: white;
+    width: 80px;
+    height: 4px;
+    margin: 0 10px;
+}
+
